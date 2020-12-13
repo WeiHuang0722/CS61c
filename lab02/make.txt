@@ -1,0 +1,8 @@
+1. clean 
+2. all
+3. gcc
+4. c99
+5. $(FOO)
+6. macos
+7. 31
+
